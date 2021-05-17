@@ -1,0 +1,14 @@
+{
+  "name": "instagram-hashtag-example",
+  "version": "1.0.0",
+  "description": "search Instagram posts through hashtags using tha Graph API",
+  "main": "index.js",
+  "author": "ElderSam",
+  "license": "MIT",
+  "dependencies": {
+    "instatouch": "^2.3.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
