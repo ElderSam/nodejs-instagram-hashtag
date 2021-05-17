@@ -6,6 +6,7 @@
   "author": "ElderSam",
   "license": "MIT",
   "dependencies": {
+    "express": "^4.17.1",
     "instatouch": "^2.3.3"
   },
   "scripts": {
